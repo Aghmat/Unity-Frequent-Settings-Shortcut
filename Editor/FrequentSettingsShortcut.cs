@@ -4,11 +4,8 @@
  *  Unity Version: 5.6.1
  *  IDE: Visual Studio Community 2017
  *  Date: June 2017
- *  Instructions: This script will either display project settings under 
- *                a new Project Settings menu item. 
- *                Comment out the "Split settings" region for a single menu item.
- *                Comment out "Unified Settings" region for grouped items.
- *                
+ *  Instructions: This script will display Project Settings under 
+ *                a new Project Settings menu item.         
  **/
 
 public class FrequentSettingsShortcut : EditorWindow
